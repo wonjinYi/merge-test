@@ -1,5 +1,5 @@
 # merge-test
 
-modified
+modified re-modified
 
 readme modified

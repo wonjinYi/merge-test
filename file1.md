@@ -1,3 +1,5 @@
-file 1
+firstline modified
 
-file1 modified
+file1 modified second too
+
+new line file1
